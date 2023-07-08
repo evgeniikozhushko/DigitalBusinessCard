@@ -1,0 +1,15 @@
+.interests--container {
+    display: flex;
+    flex-direction: column;
+    width: 317px;
+    /* border: 1px solid red; */
+    background-color: #1A1B21;
+}
+
+.interests--container h4 {
+    margin: 0 0 5px 30px;
+}
+
+.interests--container p {
+    margin: 0 0 50px 30px;
+}

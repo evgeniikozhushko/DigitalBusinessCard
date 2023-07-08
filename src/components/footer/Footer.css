@@ -1,0 +1,24 @@
+.footer--container {
+    display: flex;
+    flex-direction: column;
+    width: 317px;
+    height: 64px;
+    /* border: 1px solid red; */
+    background-color: #161619;
+    border-radius: 0 0 20px 20px;   
+}
+
+.icons--container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+    margin: 19px 60px 0 60px;
+    /* max-width: 60%; */
+}
+
+.social--icons {
+    width: 25px;
+    height: 25px;
+    color: #918E9B;
+}
